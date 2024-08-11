@@ -20,7 +20,7 @@ module.exports = function(req, res, next) {
 
         req.userId = decoded.id;
         console.log('Set req.userId to:', req.userId); // Debugging: Log the userId being set
-        console.log(req.user)
+    
 
         next();
     } catch (error) {

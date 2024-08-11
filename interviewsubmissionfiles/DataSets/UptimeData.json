@@ -1,0 +1,9776 @@
+[{
+  "timestamp": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d17f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717200000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d180"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717203600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d181"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717210800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d182"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717221600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d183"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717228800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d184"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717236000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d185"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717239600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d186"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717243200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d187"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717250400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d188"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717257600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d189"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717264800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-01T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d18a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717275600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d18b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717286400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d18c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717293600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d18d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717300800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d18e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717311600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d18f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717315200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d190"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717322400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d191"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717329600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d192"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717340400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d193"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717351200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d194"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717358400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d195"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717362000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-02T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d196"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717369200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d197"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717372800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d198"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717376400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d199"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717380000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d19a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717383600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d19b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717390800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d19c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717398000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d19d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717405200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d19e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717412400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d19f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717419600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717423200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717430400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717434000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717437600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-03T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717448400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717459200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717470000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717477200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717480800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1a9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717491600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1aa"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717502400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ab"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717506000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ac"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717509600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ad"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717520400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ae"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717531200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-04T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1af"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717542000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717545600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717549200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717552800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717556400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717560000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717570800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717578000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717581600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717585200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1b9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717596000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ba"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717606800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1bb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717617600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1bc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717621200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-05T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1bd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717628400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1be"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717632000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1bf"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717639200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717650000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717653600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717657200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717660800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717671600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717678800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717686000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717696800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717707600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-06T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1c9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717714800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ca"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717718400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1cb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717729200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1cc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717736400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1cd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717747200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ce"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717754400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1cf"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717765200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717772400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717783200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717786800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-07T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717794000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717804800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717808400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717815600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717826400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717830000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1d9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717837200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1da"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717848000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1db"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717855200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1dc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717858800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1dd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717862400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1de"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717866000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1df"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717876800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717880400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-08T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717887600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717891200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717902000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717909200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717912800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717920000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717923600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717934400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1e9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717938000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ea"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717948800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1eb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717956000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ec"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717966800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-09T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ed"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717974000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ee"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717977600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ef"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717984800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1717992000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1717999200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718006400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718010000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718020800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718031600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718035200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718042400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718053200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1f9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718064000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1fa"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718071200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1fb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718078400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1fc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718089200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1fd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718100000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1fe"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718107200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d1ff"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718114400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d200"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718121600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d201"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718132400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d202"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718136000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d203"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718143200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-11T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d204"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718146800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d205"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718150400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d206"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718161200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d207"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718172000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d208"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718175600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d209"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718182800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d20a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718186400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d20b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718193600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d20c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718204400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d20d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718208000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d20e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718211600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d20f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718218800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d210"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718226000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d211"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718236800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d212"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718240400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d213"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718247600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d214"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718258400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d215"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718269200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d216"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718280000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d217"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718290800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d218"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718301600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d219"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718308800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-13T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d21a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718312400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d21b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718323200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d21c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718334000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d21d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718337600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d21e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718341200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d21f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718344800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d220"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718348400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d221"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718352000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d222"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718359200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d223"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718366400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d224"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718370000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d225"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718373600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d226"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718384400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d227"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718395200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-14T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d228"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718402400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d229"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718409600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d22a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718413200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d22b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718420400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d22c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718424000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d22d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718431200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d22e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718434800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d22f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718445600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d230"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718452800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d231"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718460000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d232"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718463600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d233"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718470800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d234"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718478000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d235"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718481600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d236"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718485200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-15T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d237"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718488800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d238"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718496000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d239"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718499600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d23a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718510400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d23b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718514000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d23c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718517600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d23d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718524800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d23e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718528400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d23f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718532000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d240"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718535600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d241"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718539200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d242"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718550000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d243"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718560800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d244"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718568000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d245"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718571600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-16T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d246"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718578800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d247"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718582400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d248"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718586000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d249"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718596800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d24a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718607600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d24b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718618400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d24c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718625600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d24d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718636400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d24e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718643600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d24f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718654400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-17T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d250"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718658000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d251"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718668800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d252"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718679600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d253"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718690400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d254"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718694000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d255"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718701200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d256"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718704800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d257"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718712000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d258"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718719200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d259"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718722800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d25a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718726400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d25b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718733600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-18T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d25c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718744400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d25d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718755200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d25e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718766000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d25f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718773200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d260"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718784000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d261"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718794800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d262"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718798400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d263"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718805600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d264"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718816400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d265"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718827200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d266"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718830800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-19T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d267"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718834400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d268"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718841600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d269"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718852400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d26a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718863200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d26b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718866800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d26c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718870400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d26d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718881200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d26e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718888400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d26f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718895600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d270"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718906400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-20T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d271"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718917200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d272"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718928000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d273"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718931600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d274"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718938800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d275"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718949600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d276"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718960400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d277"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718967600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d278"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718974800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d279"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718982000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d27a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1718985600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d27b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1718992800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-21T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d27c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719003600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d27d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719014400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d27e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719018000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d27f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719028800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d280"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719032400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d281"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719036000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d282"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719043200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d283"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719046800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d284"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719054000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d285"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719064800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d286"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719072000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d287"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719075600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d288"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719082800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d289"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719086400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-22T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d28a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719097200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d28b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719100800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d28c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719108000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d28d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719111600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d28e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719118800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d28f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719129600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d290"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719133200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d291"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719144000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d292"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719151200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d293"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719154800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d294"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719158400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d295"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719169200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d296"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719172800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d297"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719176400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-23T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d298"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719183600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d299"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719187200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d29a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719190800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d29b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719198000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d29c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719208800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d29d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719219600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d29e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719223200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d29f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719230400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719241200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719248400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719255600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719259200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-24T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719266400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719273600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719284400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719291600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719298800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2a9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719309600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2aa"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719320400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ab"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719324000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ac"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719327600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ad"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719334800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ae"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719342000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-25T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2af"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719349200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719360000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719363600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719367200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719378000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719388800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719399600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719403200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719406800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719417600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2b9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719428400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ba"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719439200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-26T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2bb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719442800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2bc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719446400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2bd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719453600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2be"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719457200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2bf"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719468000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719475200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719486000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719496800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719504000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719511200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719514800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719518400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-27T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719522000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719532800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2c9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719543600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ca"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719547200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2cb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719558000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2cc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719568800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2cd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719576000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ce"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719583200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2cf"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719590400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719594000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719597600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719604800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-28T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719615600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719619200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719630000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719633600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719644400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719648000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2d9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719651600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2da"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719655200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2db"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719658800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2dc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719666000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2dd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719676800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2de"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719684000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2df"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719694800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-29T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719702000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719705600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719712800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719723600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719734400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719741600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719752400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719759600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719770400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2e9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719774000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ea"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719777600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2eb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719784800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-06-30T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ec"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719788400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ed"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719792000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ee"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719795600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ef"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719799200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719806400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719813600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719817200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719824400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719828000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719831600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719838800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719849600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719853200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2f9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719856800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2fa"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719867600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-01T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2fb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719874800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2fc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719878400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2fd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719882000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2fe"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719889200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d2ff"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719900000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d300"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719903600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d301"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719910800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d302"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719914400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d303"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719918000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d304"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719925200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d305"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719932400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d306"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719943200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d307"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719954000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-02T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d308"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719961200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d309"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719964800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d30a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719968400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d30b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719972000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d30c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719982800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d30d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719986400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d30e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719990000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d30f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1719993600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d310"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1719997200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d311"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720004400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d312"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720008000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d313"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720011600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d314"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720018800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d315"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720022400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d316"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720026000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d317"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720033200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d318"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720044000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-03T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d319"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720047600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d31a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720051200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d31b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720062000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d31c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720065600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d31d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720076400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d31e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720083600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d31f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720090800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d320"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720101600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d321"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720112400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d322"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720119600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d323"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720126800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-04T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d324"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720134000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d325"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720137600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d326"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720141200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d327"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720152000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d328"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720159200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d329"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720166400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d32a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720173600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d32b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720184400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d32c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720195200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d32d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720206000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d32e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720216800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-05T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d32f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720220400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d330"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720224000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d331"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720234800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d332"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720238400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d333"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720245600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d334"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720252800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d335"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720256400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d336"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720267200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d337"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720270800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d338"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720281600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d339"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720285200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d33a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720288800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d33b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720296000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-06T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d33c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720299600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d33d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720310400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d33e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720314000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d33f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720324800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d340"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720335600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d341"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720342800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d342"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720346400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d343"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720353600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d344"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720364400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d345"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720371600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d346"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720382400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d347"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720386000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d348"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720396800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d349"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720400400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d34a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720411200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d34b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720418400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d34c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720422000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d34d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720425600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d34e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720436400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d34f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720447200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d350"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720450800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d351"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720454400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d352"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720461600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d353"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720465200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d354"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720468800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-08T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d355"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720472400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d356"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720483200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d357"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720486800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d358"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720490400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d359"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720497600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d35a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720508400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d35b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720519200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d35c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720526400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d35d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720530000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d35e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720537200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d35f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720540800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d360"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720551600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-09T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d361"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720562400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d362"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720569600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d363"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720576800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d364"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720580400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d365"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720591200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d366"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720594800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d367"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720605600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d368"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720616400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d369"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720623600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d36a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720627200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d36b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720634400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d36c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720638000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d36d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720641600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-10T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d36e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720652400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d36f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720656000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d370"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720659600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d371"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720670400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d372"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720677600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d373"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720681200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d374"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720688400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d375"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720695600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d376"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720699200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d377"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720702800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d378"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720713600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d379"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720724400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d37a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720731600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-11T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d37b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720738800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d37c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720742400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d37d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720749600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d37e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720756800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d37f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720767600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d380"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720778400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d381"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720789200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d382"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720796400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d383"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720803600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d384"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720807200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-12T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d385"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720818000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d386"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720828800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d387"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720836000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d388"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720843200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d389"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720854000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d38a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720857600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d38b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720864800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d38c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720872000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d38d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720882800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d38e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720893600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d38f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720897200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-13T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d390"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720904400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d391"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720915200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d392"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720918800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d393"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720922400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d394"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720933200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d395"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720936800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d396"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720940400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d397"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720944000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d398"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720951200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d399"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720954800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d39a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720965600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d39b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720969200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d39c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720980000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d39d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1720990800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-14T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d39e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1720998000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d39f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721001600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721012400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721019600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721026800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721030400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721034000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721041200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721052000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721062800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721073600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-15T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3a9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721084400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3aa"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721088000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ab"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721098800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ac"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721109600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ad"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721120400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ae"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721124000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3af"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721127600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721138400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721145600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721149200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721160000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-16T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721163600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721174400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721178000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721188800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721192400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3b9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721196000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ba"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721206800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3bb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721214000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3bc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721217600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3bd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721221200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3be"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721228400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3bf"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721232000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721235600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721246400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-17T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721253600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721260800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721264400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721275200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721282400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721289600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721300400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3c9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721307600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ca"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721311200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3cb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721318400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3cc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721322000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3cd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721325600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ce"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721332800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3cf"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721336400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721340000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-18T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721343600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721347200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721354400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721361600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721372400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721379600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721390400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721394000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3d9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721397600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3da"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721401200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3db"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721412000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3dc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721415600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3dd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721422800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-19T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3de"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721426400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3df"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721433600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721444400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721455200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721458800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721469600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721480400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721487600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721491200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721502000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721509200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-20T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3e9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721512800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ea"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721520000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3eb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721527200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ec"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721530800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ed"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721534400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ee"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721538000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ef"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721545200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f0"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721552400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f1"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721556000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f2"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721566800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f3"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721577600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f4"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721581200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f5"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721584800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f6"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721588400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-21T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f7"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721595600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f8"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721606400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3f9"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721617200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3fa"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721620800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3fb"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721628000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3fc"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721635200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3fd"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721646000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3fe"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721649600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d3ff"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721660400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d400"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721671200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d401"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721678400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-22T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d402"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721689200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d403"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721692800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d404"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721700000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d405"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721707200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d406"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721710800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d407"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721721600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d408"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721732400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d409"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721739600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d40a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721743200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d40b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721754000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d40c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721761200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-23T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d40d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721772000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d40e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721779200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d40f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721786400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d410"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721793600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d411"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721800800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d412"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721811600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d413"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721815200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d414"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721818800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d415"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721822400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d416"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721829600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d417"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721836800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d418"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721847600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d419"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721851200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d41a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721854800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-24T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d41b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721862000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d41c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721865600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d41d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721872800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d41e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721880000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d41f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721887200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d420"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721898000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d421"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721905200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d422"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721908800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d423"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721919600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d424"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721930400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d425"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721941200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d426"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721944800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-25T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d427"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721948400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d428"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721952000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d429"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721955600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d42a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721966400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d42b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721970000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d42c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721973600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d42d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721977200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d42e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721980800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d42f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721984400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d430"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1721988000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d431"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1721998800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d432"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722009600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d433"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722020400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d434"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722027600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-26T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d435"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722031200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d436"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722038400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d437"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722049200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d438"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722060000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d439"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722063600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d43a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722067200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d43b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722070800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d43c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722078000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T12:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d43d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722081600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d43e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722092400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d43f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722103200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d440"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722110400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d441"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722114000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-27T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d442"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722121200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d443"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722124800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T01:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d444"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722128400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d445"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722135600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d446"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722146400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d447"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722153600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d448"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722164400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d449"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722171600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d44a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722182400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T19:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d44b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722193200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-28T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d44c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722204000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d44d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722211200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d44e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722222000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d44f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722232800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d450"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722243600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d451"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722250800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d452"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722258000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d453"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722261600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d454"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722265200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d455"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722276000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d456"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722283200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-29T22:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d457"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722290400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d458"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722297600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T03:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d459"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722308400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T04:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d45a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722312000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T06:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d45b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722319200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T07:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d45c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722322800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T09:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d45d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722330000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T11:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d45e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722337200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d45f"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722344400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T14:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d460"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722348000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T16:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d461"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722355200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T18:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d462"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722362400
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-30T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d463"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722373200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d464"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722384000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T02:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d465"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722391200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T05:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d466"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722402000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T08:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d467"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722412800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T10:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d468"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722420000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T13:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d469"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722430800
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T15:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d46a"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722438000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T17:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d46b"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722445200
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T20:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d46c"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722456000
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T21:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d46d"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "disconnected",
+    "timestamp": 1722459600
+  }
+},
+{
+  "timestamp": {
+    "$date": "2024-07-31T23:00:00.000Z"
+  },
+  "_id": {
+    "$oid": "66b5d9b4fe9fe6048d50d46e"
+  },
+  "metadata": {
+    "deviceId": "device123",
+    "data": "connected",
+    "timestamp": 1722466800
+  }
+}]
