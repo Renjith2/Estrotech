@@ -105,6 +105,10 @@ When the Server started Running, the user can access the swagger documentation l
 
 - Two time series collections will be established in your database.(analyticsData,uptimeData).]
 
+- Have generated analytical and uptime data over a span of 2 months of a device that worked 12 hours a day.
+
+- Starting date - 2024-06-01 && Ending date - 2024-07-31
+
 
 
 
