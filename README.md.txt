@@ -92,8 +92,7 @@ When the Server started Running, the user can access the swagger documentation l
 
 
 
-[After Logging in only the user can access the analytical,uptime and report APIs.
-
+[
 
 
 - The Datasets and the scriptfile is included in the folder interviewsubmissionfiles, the zip file is also included. 
@@ -118,17 +117,11 @@ When the Server started Running, the user can access the swagger documentation l
              
    date - 2024-06-20
 
-   Authentication: A Bearer Token must be included in the request headers.  
-
-
 
 
 -  Uptime Data API
 
-   Endpoint - GET http://localhost:7700/api/uptime/list             
-
-   Authentication: A Bearer Token must be included in the request headers. 
-
+   Endpoint - GET http://localhost:7700/api/uptime/list            
 
 
 - Overall Report API
@@ -142,9 +135,6 @@ When the Server started Running, the user can access the swagger documentation l
    In this case the reports between 2024-07-01 00:00 Am - 2024-07-10 00:00 is shown.
  
    The reports of the last day wont be included.ie , in this case - 2024-07-10.
-   
-   Authentication: A Bearer Token must be included in the request headers. 
-
 
    
 
