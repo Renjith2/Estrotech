@@ -3,5 +3,5 @@ const router=require('express').Router()
 
 
 
-router.get('/list',authMiddleware, overallreportController);
+router.get('/list', overallreportController);
 module.exports=router;
